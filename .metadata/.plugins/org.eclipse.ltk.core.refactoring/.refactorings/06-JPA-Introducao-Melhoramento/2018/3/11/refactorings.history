@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;06-JPA-Introducao-Melhoramento&apos;&#x0D;&#x0A;- Original project: &apos;06-JPA-Introducao-Melhoramento&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     br.com.fiap.jpa.entity.Aluno.java&#x0D;&#x0A;     br.com.fiap.jpa.entity.Curso.java&#x0D;&#x0A;     br.com.fiap.jpa.entity.Periodo.java&#x0D;&#x0A;     br.com.fiap.jpa.entity.StatusCurso.java" description="Delete elements" element1="/src&lt;br.com.fiap.jpa.entity{Curso.java" element2="/src&lt;br.com.fiap.jpa.entity{Periodo.java" element3="/src&lt;br.com.fiap.jpa.entity{Aluno.java" element4="/src&lt;br.com.fiap.jpa.entity{StatusCurso.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1520902587950" subPackages="false" version="1.0"/>
+</session>

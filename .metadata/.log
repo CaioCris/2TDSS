@@ -1,0 +1,1040 @@
+!SESSION 2017-12-07 16:58:38.512 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-12-07 16:59:10.317
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-12-07 17:00:04.533 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-12-07 17:00:11.703
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-01-02 16:05:36.312 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-01-02 16:05:50.663
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.mpc.ui 1 0 2018-01-02 16:06:13.135
+!MESSAGE Performing Marketplace install request from http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1617241
+!SESSION 2018-01-02 16:08:26.290 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-01-02 16:08:54.604
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-01-12 18:54:26.944 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-01-12 18:54:58.160
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-03-12 21:24:40.821 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-03-12 21:25:18.998
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\logonrm'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:29:44.597
+!MESSAGE Error building JPA file: /04-JPA-API/src/META-INF/persistence.xml
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jst.common.internal.annotations.core.AnnotationTagParser.eos(AnnotationTagParser.java:45)
+	at org.eclipse.jst.common.internal.annotations.core.AnnotationTagParser.parse(AnnotationTagParser.java:259)
+	at org.eclipse.jst.common.internal.annotations.core.AnnotationsTranslator.setMOFValue(AnnotationsTranslator.java:70)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOFCommentFeature(EMF2DOMAdapterImpl.java:1874)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOFFeature(EMF2DOMAdapterImpl.java:1836)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOF(EMF2DOMAdapterImpl.java:993)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOF(EMF2DOMAdapterImpl.java:973)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOFMultiFeature(EMF2DOMAdapterImpl.java:522)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOFMultiFeature(EMF2DOMAdapterImpl.java:1564)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOFMultiFeature(EMF2DOMAdapterImpl.java:1778)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOFFeature(EMF2DOMAdapterImpl.java:1833)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOF(EMF2DOMAdapterImpl.java:993)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOF(EMF2DOMAdapterImpl.java:973)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOFFeature(EMF2DOMAdapterImpl.java:1519)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOFFeature(EMF2DOMAdapterImpl.java:1851)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOF(EMF2DOMAdapterImpl.java:993)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOF(EMF2DOMAdapterImpl.java:973)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOFMultiFeature(EMF2DOMAdapterImpl.java:522)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOFMultiFeature(EMF2DOMAdapterImpl.java:1564)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOFMultiFeature(EMF2DOMAdapterImpl.java:1778)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOFFeature(EMF2DOMAdapterImpl.java:1833)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOF(EMF2DOMAdapterImpl.java:993)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOF(EMF2DOMAdapterImpl.java:973)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOFMultiFeature(EMF2DOMAdapterImpl.java:522)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOFRootFeature(EMF2DOMAdapterImpl.java:1014)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.primUpdateMOF(EMF2DOMAdapterImpl.java:989)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMAdapterImpl.updateMOF(EMF2DOMAdapterImpl.java:973)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMRenderer.doLoad(EMF2DOMRenderer.java:64)
+	at org.eclipse.wst.common.internal.emf.resource.TranslatorResourceImpl.basicDoLoad(TranslatorResourceImpl.java:153)
+	at org.eclipse.wst.common.internal.emf.resource.CompatibilityXMIResourceImpl.doLoad(CompatibilityXMIResourceImpl.java:182)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.wst.common.internal.emf.resource.CompatibilityXMIResourceImpl.loadExisting(CompatibilityXMIResourceImpl.java:304)
+	at org.eclipse.wst.common.internal.emf.resource.TranslatorResourceImpl.load(TranslatorResourceImpl.java:427)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.demandLoad(ProjectResourceSetImpl.java:811)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.getResource(ProjectResourceSetImpl.java:1064)
+	at org.eclipse.wst.common.internal.emfworkbench.WorkbenchResourceHelper.getOrCreateResource(WorkbenchResourceHelper.java:380)
+	at org.eclipse.jpt.common.core.internal.resource.xml.AbstractJptXmlResourceProvider.buildXmlResource(AbstractJptXmlResourceProvider.java:113)
+	at org.eclipse.jpt.common.core.internal.resource.xml.AbstractJptXmlResourceProvider.getXmlResource(AbstractJptXmlResourceProvider.java:107)
+	at org.eclipse.jpt.jpa.core.internal.PersistenceResourceModelProvider.buildResourceModel(PersistenceResourceModelProvider.java:52)
+	at org.eclipse.jpt.jpa.core.internal.PersistenceResourceModelProvider.buildResourceModel(PersistenceResourceModelProvider.java:1)
+	at org.eclipse.jpt.jpa.core.internal.GenericJpaPlatform.buildResourceModel(GenericJpaPlatform.java:146)
+	at org.eclipse.jpt.jpa.core.internal.GenericJpaPlatform.buildJpaFile(GenericJpaPlatform.java:140)
+	at org.eclipse.jpt.jpa.core.internal.GenericJpaPlatform.buildJpaFile(GenericJpaPlatform.java:120)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.buildJpaFile(AbstractJpaProject.java:624)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.addJpaFileMaybe_(AbstractJpaProject.java:589)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$InitialResourceProxyVisitor.visit(AbstractJpaProject.java:349)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:84)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:129)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$InitialResourceProxyVisitor.visitProject(AbstractJpaProject.java:333)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.<init>(AbstractJpaProject.java:250)
+	at org.jboss.tools.hibernate.jpt.core.internal.HibernateJpaProject.<init>(HibernateJpaProject.java:71)
+	at org.jboss.tools.hibernate.jpt.core.internal.HibernateAbstractJpaFactory.buildJpaProject(HibernateAbstractJpaFactory.java:108)
+	at org.jboss.tools.hibernate.jpt.core.internal.jpa2.HibernateJpaFactory2_0.buildJpaProject(HibernateJpaFactory2_0.java:90)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.buildJpaProject(InternalJpaProjectManager.java:648)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.buildJpaProject(InternalJpaProjectManager.java:636)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.buildJpaProject(InternalJpaProjectManager.java:629)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.addJpaProject(InternalJpaProjectManager.java:610)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.buildJpaProject_(InternalJpaProjectManager.java:313)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$BuildJpaProjectCommand.execute(InternalJpaProjectManager.java:306)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:29:59.517
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:29:59.520
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:00.274
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:00.276
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:01.716
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:01.719
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:01.905
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:01.908
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:02.435
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:02.439
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:03.802
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:30:03.806
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:41.647
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:41.757
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:43.533
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:43.765
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:44.069
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:44.285
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:44.484
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:53.428
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:53.751
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:57.325
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:57.502
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:57.692
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:57.884
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:58.061
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-03-12 21:32:58.293
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.jboss.tools.hibernate.jpt.core.internal.context.HibernatePersistenceUnit.propertyValueChanged(HibernatePersistenceUnit.java:114)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:33:00.183
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:33:00.185
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:34:02.978
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:34:02.981
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-12 21:35:07.301
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-12 21:35:07.302
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:36:03.002
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:36:03.004
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:39:16.377
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:39:16.379
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:40:16.444
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:40:16.447
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:43:49.070
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:43:49.072
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:45:41.817
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:45:41.819
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-12 21:45:52.479
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-12 21:45:52.480
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:46:11.426
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:46:11.428
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:52:24.991
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:52:24.993
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:52:26.309
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:52:26.312
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:53:07.342
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:53:07.344
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:56:28.403
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:56:28.405
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:57:19.551
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:57:19.553
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:57:34.142
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:57:34.144
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:57:44.417
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:57:44.421
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:57:56.352
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:57:56.354
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:58:17.268
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 21:58:17.268
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:05:44.501
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:05:44.501
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:06:56.982
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:06:56.982
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:07:40.772
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:07:40.772
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:08:29.522
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:08:29.522
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:08:44.959
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:08:44.959
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:00.558
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:00.558
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:14.384
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:14.384
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:34.840
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:34.840
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:35.184
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:35.184
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:35.278
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:35.278
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:35.528
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:35.544
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:40.341
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:09:40.341
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:18:19.354
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:18:19.354
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:18:54.337
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:18:54.337
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:19:53.151
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:19:53.151
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:21:22.312
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:21:22.312
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:08.885
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:08.885
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:27.579
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:27.579
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:27.860
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:27.860
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:27.938
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:27.938
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:28.173
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:22:28.173
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:08.332
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:08.332
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:30.756
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:30.756
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:37.959
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:37.959
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:38.241
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:38.256
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:38.319
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:38.319
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:38.538
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:28:38.553
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:29:14.396
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:29:14.396
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:31:46.003
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:31:46.003
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:31:59.532
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:31:59.532
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:32:10.095
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:32:10.095
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:32:10.392
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:32:10.392
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:32:10.486
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:32:10.486
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:32:10.720
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:32:10.720
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:33:28.216
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:33:28.216
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:34:02.165
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:34:02.165
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:37:56.026
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:37:56.026
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:06.266
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:06.266
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:06.563
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:06.563
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:06.641
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:06.641
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:06.844
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:06.844
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:40.830
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:38:40.830
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:39:16.188
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:39:16.188
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:43:28.774
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-03-12 22:43:28.774
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
